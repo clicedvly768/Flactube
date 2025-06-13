@@ -13,6 +13,6 @@ How work:
 
 3 wait for it to load
 
-File save to this directory: C://User/You_Username/Download
+File save to the this folder "downloads"
 
 Pleas don't delete folder: "_internal" and pleas download ffmpeg and transfer it to drive C://
