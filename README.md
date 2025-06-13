@@ -16,3 +16,5 @@ How work:
 File save to the this folder "downloads"
 
 Pleas don't delete folder: "_internal" and pleas download ffmpeg and transfer it to drive C://
+
+Setup DON'T normar working, pleas dont install, pleas use Portable version
