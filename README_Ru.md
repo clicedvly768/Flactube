@@ -1,5 +1,6 @@
 # Flactube
 Это загрузчик музыки с YouTube в формате .Flac.
+Теленрам канал: https://t.me/FalcTube
 
 Как работает:
 
