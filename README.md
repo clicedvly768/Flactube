@@ -1,7 +1,6 @@
 # Flactube
-!English[https://github.com/clicedvly768/Flactube/blob/main/README.md]
+### [English]([https://github.com/clicedvly768/Flactube/blob/main/README.md]) | [Русский](https://github.com/clicedvly768/Flactube/blob/main/README_Ru.md)
 
-!Русский[https://github.com/clicedvly768/Flactube/blob/main/README_Ru.md]
 
 Telegram:
 https://t.me/FalcTube
