@@ -3,6 +3,9 @@ Eng: https://github.com/clicedvly768/Flactube/blob/main/README.md
 
 Rus: https://github.com/clicedvly768/Flactube/blob/main/README_Ru.md
 
+Telegram:
+https://t.me/FalcTube
+
 This is a YouTube music downloader in .Flac format.
 
 How work:![bandicam-2025-06-14-00-37-05-987](https://github.com/user-attachments/assets/46a78a5f-4b45-48ce-b3d4-17744b60d99f)
