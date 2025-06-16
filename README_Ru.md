@@ -1,7 +1,7 @@
 # Flactube
 Это загрузчик музыки с YouTube в формате .Flac.\
 
-### [English]([https://github.com/clicedvly768/Flactube/blob/main/README.md]) | [Русский](https://github.com/clicedvly768/Flactube/blob/main/README_Ru.md)
+### [English](https://github.com/amnezia-vpn/amnezia-client/blob/dev/README.md) | Русский
 
 Телеграм канал: https://t.me/FalcTube
 
