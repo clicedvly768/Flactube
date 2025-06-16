@@ -3,6 +3,8 @@
 
 ### [English](https://github.com/amnezia-vpn/amnezia-client/blob/dev/README.md) | Русский
 
+Вы можете собрать приложение для Linux и MacOS. Все необходимое для сборки находится в исходниках приложения.
+
 Телеграм канал: https://t.me/FalcTube
 
 Как работает:
