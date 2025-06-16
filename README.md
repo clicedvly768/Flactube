@@ -1,6 +1,7 @@
 # Flactube
 ### [English]([https://github.com/clicedvly768/Flactube/blob/main/README.md]) | [Русский](https://github.com/clicedvly768/Flactube/blob/main/README_Ru.md)
 
+You can build the application for Linux and MacOS. Everything you need for the build is in the application sources.
 
 Telegram:
 https://t.me/FalcTube
